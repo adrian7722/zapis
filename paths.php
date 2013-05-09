@@ -23,7 +23,7 @@
 
 $environments = array(
 
-	'local' => array('http://localhost*', '*.dev'),
+	'local' => array('http://akademia.from-uk.pl/*', '*.dev'),
 
 );
 

@@ -1,0 +1,10 @@
+Kurs
+    id:string -> required
+    name:text -> required
+    timestamps
+
+Students Kurs:bt
+    id:string -> required
+    FirsName:text -> required
+    email:string,100:unique -> required|mail
+    timestamps

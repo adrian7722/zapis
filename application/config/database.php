@@ -69,10 +69,10 @@ return array(
 
 		'mysql' => array(
 			'driver'   => 'mysql',
-			'host'     => '127.0.0.1',
-			'database' => 'database',
-			'username' => 'root',
-			'password' => '',
+			'host'     => 'mysql.mydevil.net',
+			'database' => 'm12708_zapis',
+			'username' => 'm12708_zapis',
+			'password' => 'zapis1234',
 			'charset'  => 'utf8',
 			'prefix'   => '',
 		),
