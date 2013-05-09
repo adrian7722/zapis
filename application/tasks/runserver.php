@@ -18,7 +18,7 @@ public function run($arg){
  }
 
 echo 'Running PHP development server on port '.$port.'...';
-passthru("php -S {$host}:{$port} -t ".getcwd().'/public'); 
+passthru("c:\php\php -S {$host}:{$port} -t ".getcwd().'/public'); 
 }
 }
 ?>
